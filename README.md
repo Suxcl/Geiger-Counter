@@ -16,3 +16,12 @@ China OLED screen 0.91 driver - Adafruit SSD1306
 
 
 https://github.com/SensorsIot/Geiger-Counter-RadiationD-v1.1-CAJOE-
+
+
+Arduino Setup
+Board
+Board manager: Arduino ESP32 Boards
+Board: ESP32 C3 Dev Module 
+
+OLED
+Libraries: Adafruit SSD1306, GFX BUSIO
